@@ -27,7 +27,7 @@ A simple React frontend integrated with a Django REST Framework backend for mana
 2. Install dependencies:
 
    ```bash
-   pip install django djangorestframework djangorestframework-simplejwt
+   pip install -r requirements.txt
    ```
 
 3. Configure your Django project for REST framework and JWT authentication.
